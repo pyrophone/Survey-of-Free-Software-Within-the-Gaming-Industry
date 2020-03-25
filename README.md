@@ -1,0 +1,2 @@
+# Survey of Free Software Within the Gaming Industry
+This repository contains a report of free and open source software and resources within the gaming industry, along with containing a list of free and open source software and resources.
