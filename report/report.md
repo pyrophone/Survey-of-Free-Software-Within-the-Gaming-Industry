@@ -62,7 +62,7 @@ For some developers, creating and developing all aspects of the a game from scra
 Each of these engine targets different fields and game types, but they all provide a powerful framework to develop games on. Some examples of these game engine include:
 [Octodad: Dadliest Catch](https://store.steampowered.com/app/224480/Octodad_Dadliest_Catch/) a physics based adventure / puzzle game developed on the Irrlicht engine. Octodad: Dadliest Catch was successful as an indie game, reaching almost [500000 in sales in 2015](https://www.polygon.com/2015/2/2/7962611/octodad-sales)
 
-[Frozen Synapse](http://www.frozensynapse.com/) and [Fronzen Synapse 2](https://www.frozensynapse2.com/) both use the Torque 3D. Frozen Synapse and it's sequal are turn-based strategy games.
+[Frozen Synapse](http://www.frozensynapse.com/) and [Frozen Synapse 2](https://www.frozensynapse2.com/) both use the Torque 3D. Frozen Synapse and it's sequal are turn-based strategy games.
 
 [Celeste](http://www.celestegame.com/), a 2D platformer developed using MonoGame. Celeste had [sold over 500000 copies by the end of 2018](https://www.gamasutra.com/view/news/333554/Celeste_has_sold_over_500000_copies_since_January.php)
 
